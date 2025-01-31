@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="zw.co.lester.direct.caller.plus.flutter_direct_caller_plugin"
+
+    >
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-feature android:name="android.hardware.telephony" android:required="false" />
+</manifest>
