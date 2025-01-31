@@ -1,7 +1,11 @@
 name: flutter_direct_caller_plugin
-description: "Flutter direct call"
+description: "Flutter direct call plugin"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Lesruez93/flutter_direct_caller_plugin
+repository: https://github.com/Lesruez93/flutter_direct_caller_plugin
+issue_tracker: https://github.com/Lesruez93/flutter_direct_caller_plugin/issues
+maintainer: lesterrusike@gmail.com
+topics: [flutter, plugin, calls]
 
 environment:
   sdk: ^3.6.1
