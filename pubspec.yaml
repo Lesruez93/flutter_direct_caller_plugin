@@ -1,6 +1,6 @@
 name: flutter_direct_caller_plugin
-description: "Flutter direct call plugin"
-version: 0.0.2
+description: "A lightweight plugin that enables direct calls from the app without opening the phone dialer. It seamlessly handles permission requests for a smooth user experience."
+version: 0.0.4
 homepage: https://github.com/Lesruez93/flutter_direct_caller_plugin
 repository: https://github.com/Lesruez93/flutter_direct_caller_plugin
 issue_tracker: https://github.com/Lesruez93/flutter_direct_caller_plugin/issues

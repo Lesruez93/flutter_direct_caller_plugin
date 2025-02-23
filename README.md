@@ -9,7 +9,7 @@ flutter pub add flutter_direct_caller_plugin
 
 Add dependency to pubspec.yaml file
 ```
-flutter_direct_caller_plugin: 0.0.2
+flutter_direct_caller_plugin: 0.0.4
 ```
 
 ### Android
